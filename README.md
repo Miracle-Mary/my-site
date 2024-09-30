@@ -1,5 +1,5 @@
 ## Мария Кривокорытова
-![фото](file:///C:/Users/Maria/Desktop/my-site/03025293%20(1).jpg)
+![фото](https://github.com/Miracle-Mary/my-site/blob/main/03025293%20(1).jpg)
 
 ### Образование
 **Высшее:** Прикладная математика 2000-2005\
